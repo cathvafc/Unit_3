@@ -1,0 +1,13 @@
+C:\GitHub\Unit_3\Unit3_Exercise\Unit3_Exercise\bin\Debug\netcoreapp3.1\Unit3_Exercise.exe
+C:\GitHub\Unit_3\Unit3_Exercise\Unit3_Exercise\bin\Debug\netcoreapp3.1\Unit3_Exercise.deps.json
+C:\GitHub\Unit_3\Unit3_Exercise\Unit3_Exercise\bin\Debug\netcoreapp3.1\Unit3_Exercise.runtimeconfig.json
+C:\GitHub\Unit_3\Unit3_Exercise\Unit3_Exercise\bin\Debug\netcoreapp3.1\Unit3_Exercise.runtimeconfig.dev.json
+C:\GitHub\Unit_3\Unit3_Exercise\Unit3_Exercise\bin\Debug\netcoreapp3.1\Unit3_Exercise.dll
+C:\GitHub\Unit_3\Unit3_Exercise\Unit3_Exercise\bin\Debug\netcoreapp3.1\Unit3_Exercise.pdb
+C:\GitHub\Unit_3\Unit3_Exercise\Unit3_Exercise\obj\Debug\netcoreapp3.1\Unit3_Exercise.csprojAssemblyReference.cache
+C:\GitHub\Unit_3\Unit3_Exercise\Unit3_Exercise\obj\Debug\netcoreapp3.1\Unit3_Exercise.AssemblyInfoInputs.cache
+C:\GitHub\Unit_3\Unit3_Exercise\Unit3_Exercise\obj\Debug\netcoreapp3.1\Unit3_Exercise.AssemblyInfo.cs
+C:\GitHub\Unit_3\Unit3_Exercise\Unit3_Exercise\obj\Debug\netcoreapp3.1\Unit3_Exercise.csproj.CoreCompileInputs.cache
+C:\GitHub\Unit_3\Unit3_Exercise\Unit3_Exercise\obj\Debug\netcoreapp3.1\Unit3_Exercise.dll
+C:\GitHub\Unit_3\Unit3_Exercise\Unit3_Exercise\obj\Debug\netcoreapp3.1\Unit3_Exercise.pdb
+C:\GitHub\Unit_3\Unit3_Exercise\Unit3_Exercise\obj\Debug\netcoreapp3.1\Unit3_Exercise.genruntimeconfig.cache
