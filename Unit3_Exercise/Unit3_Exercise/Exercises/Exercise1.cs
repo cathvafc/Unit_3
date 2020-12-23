@@ -34,7 +34,7 @@ namespace Unit3_Exercise.Exercises
             {
                 Console.WriteLine("FirstVariable divided SecondVariable are equal to: {0}", firstVariable / secondVariable);
 
-                Console.WriteLine("FirstVariable divided SecondVariable are equal to: {0}", firstVariable % secondVariable);
+                Console.WriteLine("FirstVariable moduled by the SecondVariable are equal to: {0}", firstVariable % secondVariable);
             }
             else
             {
