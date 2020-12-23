@@ -6,11 +6,11 @@ namespace Unit3_Exercise
     {
         static void Main(string[] args)
         {
-            //Exercise 1
-            Unit3_Exercise.Exercises.Exercise1 firstExercise = new Exercises.Exercise1(10,4);
+            ////Exercise 1
+            //Unit3_Exercise.Exercises.Exercise1 firstExercise = new Exercises.Exercise1(10,4);
 
-            //Method that shows the exercises results
-            firstExercise.ExerciseResult();
+            ////Method that shows the exercises results
+            //firstExercise.ExerciseResult();
 
             ////Exercise 2
             //Unit3_Exercise.Exercises.Exercise2 secondExercise = new Exercises.Exercise2(10, 4.2, 'G');
@@ -30,11 +30,11 @@ namespace Unit3_Exercise
             ////Method that shows the exercises results
             //forthExercise.ExerciseResult();
 
-            ////Exercise 5
-            //Unit3_Exercise.Exercises.Exercise5 fifthExercise = new Exercises.Exercise5(2,4,6,8);
+            //Exercise 5
+            Unit3_Exercise.Exercises.Exercise5 fifthExercise = new Exercises.Exercise5(2, 4, 6, 8);
 
-            ////Method that shows the exercises results
-            //fifthExercise.ExerciseResult();
+            //Method that shows the exercises results
+            fifthExercise.ExerciseResult();
         }
     }
 }
